@@ -8,6 +8,7 @@ La clase banco tendrá como atributos 3 objetos de la clase cliente y los métod
 #Vamoss
 #daleee
 # creamos la clase banco
+# DI O Di
 class Banco:
 	# inicializamos
 	def __init__(self):
