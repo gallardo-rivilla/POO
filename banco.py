@@ -17,6 +17,7 @@ class Banco:
 	# función para operar
 	#prueba 2222
 	# otro cambio
+	# si o si
 	def operacion(self):
 		self.cliente1.depositar(1000)
 		self.cliente2.depositar(300)
