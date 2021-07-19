@@ -5,6 +5,7 @@ Se deberán crear dos clases, la clase cliente y la clase banco. La clase client
 
 La clase banco tendrá como atributos 3 objetos de la clase cliente y los métodos __init__, operar y deposito_total.
 '''
+#Vamoss
 #daleee
 # creamos la clase banco
 class Banco:
